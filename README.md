@@ -100,6 +100,9 @@ Forex trading involves predicting currency price fluctuations. This project impl
 ## **Results**
 - RMSE achieved: **0.00043**  
 - The predicted forex prices closely match actual prices, as seen in the visualization:
+
+Actual - Black
+Prediction - Pink
   
   ![image](https://github.com/user-attachments/assets/bb0a1b39-a46e-4a9d-9712-133dc1026f0c)
 
