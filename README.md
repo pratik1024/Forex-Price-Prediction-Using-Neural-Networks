@@ -82,13 +82,13 @@ Forex trading involves predicting currency price fluctuations. This project impl
 
 3. Run the project:
    ```bash
-   final_model.py
+   Final_Model.ipynb
    ```
 
 ---
 
 ## **Usage**
-- **Main Script:** `main.py`  
+- **Main Script:** `Final_Model.ipynb`  
   Run this script to preprocess data, train the model, and predict forex prices.  
 - Customize the parameters in the script, such as:
   - Input file path
